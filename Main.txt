@@ -1,1 +1,2 @@
-this structure for learning Git 
+this structure for learning Git staged line
+unstaged line
