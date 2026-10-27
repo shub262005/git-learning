@@ -1,2 +1,7 @@
+*Feature 1 branch
+
 this structure for learning Git staged line
 unstaged line
+
+feature 1
+    {code}
